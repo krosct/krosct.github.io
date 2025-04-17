@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2024-02-11
+title: About Me
+tags: [about, me, myself, resume]
+date: 2025-04-17
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<!-- <center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
 
@@ -35,4 +35,4 @@ See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on Git
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
 
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
+[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn} -->

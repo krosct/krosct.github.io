@@ -1,14 +1,14 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
+title: Gabriel Monteiro Silva
+bio: "Computer Science Student"
+description: "It is a Gabriel's resume and it should be updated as soon as possible."
 reading_time: true
-words_per_minute: 200
-logo: "assets/img/logo.png"
-background: "assets/img/moonrise-background.jpg"
+words_per_minute: 230
+logo: "assets/img/perfil1.jpg"
+background: "assets/img/bg_photo.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: https://krosct.github.io/
 
 # Jekyll
 permalink: /:title/
@@ -36,20 +36,22 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-#email:
-twitter: username
-facebook: username
-github-url: username
+email: krosct@gmail.com
+# twitter: username
+# facebook: username
+github-url: krosct
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin: username
+linkedin: gabrielmonsi
 #xing: username
-instagram: username
+instagram: krlotz_
+whatsapp: 5581994190386
+whatsapp-msg: Ol%C3%A1%20Gabriel%21%20Tudo%20bem%3F%0AGostaria%20de%20conversar%20com%20voc%C3%AA.%0A%28%2AComplete%20aqui...%2A%29
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+# steam: username
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
