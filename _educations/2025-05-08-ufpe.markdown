@@ -1,6 +1,6 @@
 ---
 layout: education
-title: "UFPE"
+title: "Graduation: UFPE"
 date: 2025-05-08
 excerpt: "Since 2022 until now..."
 # tags: [when i need, storage, memory]
@@ -9,7 +9,7 @@ excerpt: "Since 2022 until now..."
 image: "ufpe.png"
 ---
 
-# 🎓 Formação Acadêmica
+# 🎓 Educational Background
 
 ---
 

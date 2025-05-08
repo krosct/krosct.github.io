@@ -22,7 +22,8 @@ layout: compress
                     </a>
                 </div>
                 <div class="postwimg-list">
-                    {% for education in site.educations %} 
+                    {% assign sorted_posts = site.educations | sort: 'date' | reverse %}
+                    {% for education in sorted_posts %}
                         {% if education.project == null %}
                     <ul>
                         <li class="w-15">

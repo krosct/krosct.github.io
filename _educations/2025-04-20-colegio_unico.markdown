@@ -1,7 +1,7 @@
 ---
 layout: education
-title: "Colégio Único"
-date: 2025-05-08
+title: "High School: Colégio Único"
+date: 2025-04-20
 excerpt: "3 Years"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
@@ -9,7 +9,7 @@ excerpt: "3 Years"
 image: "colegio unico.png"
 ---
 
-# 🎓 Formação Acadêmica
+# 🎓 Educational Background
 
 ---
 

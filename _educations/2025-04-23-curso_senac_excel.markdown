@@ -1,21 +1,21 @@
 ---
 layout: education
-title: "Senac"
-date: 2025-05-08
-excerpt: "2 Years"
+title: "Course: Advanced Excel"
+date: 2025-04-23
+excerpt: "Oct 2020"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "senac.png"
 ---
 
-# 🎓 Formação Acadêmica
+# 🎓 Course
 
 ---
 
 ## 💼 Centro Universitário Senac
-**Tecnólogo em Processos Gerenciais**
+**Curso Online - Excel Recursos Avançados**
 
 📍 *Brasil - São Paulo - São Paulo*
 
-📅 **Abril de 2020 — Abril de 2022**
+📅 **Outubro de 2020**
