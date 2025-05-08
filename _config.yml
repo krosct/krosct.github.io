@@ -92,3 +92,11 @@ exclude:
     LICENSE,
     Rakefile,
   ]
+
+collections:
+  experiences:
+    output: true
+    permalink: /experiences/:title/
+  educations:
+    output: true
+    permalink: /educations/:title/
