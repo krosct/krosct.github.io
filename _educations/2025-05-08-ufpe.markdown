@@ -1,0 +1,21 @@
+---
+layout: education
+title: "UFPE"
+date: 2025-05-08
+excerpt: "Since 2022 until now..."
+# tags: [when i need, storage, memory]
+# feature: http://i.imgur.com/Ds6S7lJ.png
+# comments: true
+image: "ufpe.png"
+---
+
+# 🎓 Formação Acadêmica
+
+---
+
+## 🧠 Centro de Informática - UFPE
+**Bacharelado em Ciência da Computação**
+
+📍 *Brasil - Pernambuco - Recife*
+
+📅 **Junho de 2022 — Junho de 2027 (Estimativa)**

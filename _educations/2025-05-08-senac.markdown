@@ -1,0 +1,21 @@
+---
+layout: education
+title: "Senac"
+date: 2025-05-08
+excerpt: "2 Years"
+# tags: [when i need, storage, memory]
+# feature: http://i.imgur.com/Ds6S7lJ.png
+# comments: true
+image: "senac.png"
+---
+
+# 🎓 Formação Acadêmica
+
+---
+
+## 💼 Centro Universitário Senac
+**Tecnólogo em Processos Gerenciais**
+
+📍 *Brasil - São Paulo - São Paulo*
+
+📅 **Abril de 2020 — Abril de 2022**
