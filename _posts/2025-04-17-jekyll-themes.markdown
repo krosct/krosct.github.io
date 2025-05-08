@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll Themes I Liked"
 date: 2025-04-17
-# excerpt: "A ton of text to test readability with image feature."
+excerpt: "I am going to save right here some jekyll themes to use them in future perhaps."
 tags: [jekyll themes, future]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
