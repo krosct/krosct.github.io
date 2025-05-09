@@ -43,11 +43,11 @@ In this role, I was one of the responsible team for the financial and administra
 <br>
 <br>
 
-🇧🇷 **[Brazilian Hymn](https://www.letras.mus.br/hinos-de-paises/46368/)**  
-🐎 **[Cavalry Hymn](https://www.letras.mus.br/exercito-brasileiro/435235/)**  
-🎖️ **[Soldados, a cavalaria](https://www.letras.mus.br/exercito-brasileiro/soldados-a-cavalaria/)**
+&nbsp;🇧🇷 &nbsp;**[Brazilian Hymn](https://www.letras.mus.br/hinos-de-paises/46368/){:target="_blank"}**  
+🐎 **[Cavalry Hymn](https://www.letras.mus.br/exercito-brasileiro/435235/){:target="_blank"}**  
+🎖️ **[Soldados, a cavalaria](https://www.letras.mus.br/exercito-brasileiro/soldados-a-cavalaria/){:target="_blank"}**
 
 > Soldados, a Cavalaria  
 > É a sentinela avançada  
 > Da pátria mãe que em nós confia  
-> ** Para viver eternamente respeitada**
+> **Para viver eternamente respeitada** 
