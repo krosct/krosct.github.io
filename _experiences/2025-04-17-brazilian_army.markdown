@@ -9,9 +9,9 @@ excerpt: "7 years and 3 months serving my country under the army command."
 image: "exercito transparente.png"
 ---
 
-> To everyone’s surprise, including myself 😅 — I decided to serve in the army for a year. I can’t say for sure what led me to this decision, but it was a mix of wanting to test my limits and being influenced by some family members 👨‍👩‍👦.
+> To everyone’s surprise, including myself 😅 — I decided to serve in the army for a year. I can’t say for sure what led me to this decision, but it was a mix of wanting to test my limits, learn new things and being influenced by some family members 👨‍👩‍👦.
 
->2017 was a wild and incredibly productive year for me. I learned a lot, and in many ways, I gained control over my mind, desires, and emotions 🧠. And of course, I learned how to survive in the jungle 🌴 and paint curbs 🪣🎨.
+>These years were wild and incredibly productive for me. They were very rewarding and worthwhile. I learned a lot, and in many ways, I gained control over my mind, desires, and emotions 🧠. And of course, I learned how to survive in the jungle 🌴 and paint curbs 🪣🎨.
 
 ---
 
@@ -43,7 +43,7 @@ In this role, I was one of the responsible team for the financial and administra
 <br>
 <br>
 
-&nbsp;🇧🇷 &nbsp;**[Brazilian Hymn](https://www.letras.mus.br/hinos-de-paises/46368/){:target="_blank"}**  
+🇧🇷 &nbsp;**[Brazilian Hymn](https://www.letras.mus.br/hinos-de-paises/46368/){:target="_blank"}**  
 🐎 **[Cavalry Hymn](https://www.letras.mus.br/exercito-brasileiro/435235/){:target="_blank"}**  
 🎖️ **[Soldados, a cavalaria](https://www.letras.mus.br/exercito-brasileiro/soldados-a-cavalaria/){:target="_blank"}**
 
