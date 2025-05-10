@@ -62,6 +62,23 @@ remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 background }}{% endcapture %}{% endunless %}
 <style type="text/css">
     body {
+      background: black !important;
+      position: relative; /* necessário para o ::before */
+    }
+
+    /* Pseudo-elemento que fica atrás de tudo e recebe o blur */
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-image: url({{ background }});
+      background-repeat: {% if site.tiled_bg %}repeat{% else %}no-repeat{% endif %};
+      background-size: cover;
+      background-position: center center;
+      filter: blur(5px);
+      z-index: -1; /* atrás de todo o conteúdo */
+    }
+    /* body {
         background-image:url({{ background }});
 
             {
@@ -74,7 +91,7 @@ background }}{% endcapture %}{% endunless %}
             {
             % endunless %
         }
-    }
+    } */
 </style>
 {% endif %}
 <!-- Post Feature Image -->

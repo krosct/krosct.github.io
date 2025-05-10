@@ -1,8 +1,12 @@
 .dl-menuwrapper {
 	width: 100%;
-	position: absolute;
-	top: 5px;
-	left: 5px;
+	position: fixed;
+	max-width: 200px;
+	// position: absolute;
+	top: 25px;
+	// top: 5px;
+	left: 25px;
+	// left: 5px;
 	z-index: 1000;
 	-webkit-perspective: 1000px;
 	-moz-perspective: 1000px;
@@ -10,12 +14,12 @@
 	-webkit-perspective-origin: 50% 200%;
 	-moz-perspective-origin: 50% 200%;
 	perspective-origin: 50% 200%;
-	@media #{$notsmall} {
-		position: fixed;
-		max-width: 175px;
-		top: 25px;
-		left: 25px;
-	}
+	// @media #{$notsmall} {
+	// 	position: fixed;
+	// 	max-width: 175px;
+	// 	top: 25px;
+	// 	left: 25px;
+	// }
 	button {
 		display: flex;
 		align-items: center;
@@ -26,17 +30,19 @@
 		width: 48px;
 		height: 45px;
 		text-indent: -900em;
-		background-color: rgb(114, 114, 114);
+		background-color: transparent;
+		// background-color: rgb(114, 114, 114);
 		overflow: hidden;
 		position: relative;
 		cursor: pointer;
 		outline: none;
-		@include border-radius(0,3px,0,0);
+		border-radius: 10px;
+		// @include border-radius(0,3px,0,0);
 		opacity: 1;
-		@media #{$notsmall} {
-			@include border-radius(7px,7px,7px,7px);
-			background-color: transparent;
-		}
+		// @media #{$notsmall} {
+		// 	@include border-radius(7px,7px,7px,7px);
+		// 	background-color: transparent;
+		// }
 	}
 	button:hover,
 	button.dl-active,
@@ -88,7 +94,7 @@
 			display: block;
 			position: relative;
 			padding: 10px 20px;
-			border: 0.1mm solid rgb(16, 0, 27);
+			border: 0.1mm solid black;
 			opacity: 1;
 			@include font-rem(14);
 			line-height: 20px;
@@ -126,40 +132,46 @@
 	.dl-menu {
 		margin: 0;
 		position: absolute;
-		width: 70%;
-		border: 1px solid rgb(37, 1, 62);
+		top: 15px;
+		width: 100%;
+		// border: 1px solid rgb(37, 1, 62);
+		// border: 1px solid black;
 		max-width: 400px;
 		overflow-y: auto;
 		max-height: 600px;
 		opacity: 0;
 		pointer-events: none;
 		box-shadow: 0 12px 24px rgba($black,0.4);
-		-webkit-transform: translateY(10px);
-		-moz-transform: translateY(10px);
-		transform: translateY(10px);
+		-webkit-transform: translateY(0px);
+		// -webkit-transform: translateY(10px);
+		-moz-transform: translateY(0px);
+		// -moz-transform: translateY(10px);
+		transform: translateY(0px);
+		// transform: translateY(10px);
 		-webkit-backface-visibility: hidden;
 		-moz-backface-visibility: hidden;
 		backface-visibility: hidden;
-		@media #{$notsmall} {
-			@include border-radius(7px,7px,7px,7px);
-			max-height: 650px;
-			width: 100%;
-		}
+		border-radius: 3px;
+		// @media #{$notsmall} {
+		// 	@include border-radius(7px,7px,7px,7px);
+		// 	max-height: 600px;
+		// 	width: 70%;
+		// }
 	}
-	.dl-menu.dl-menu-toggle {
-		-webkit-transition: all 0.3s ease;
-		-moz-transition: all 0.3s ease;
-		transition: all 0.3s ease;
-	}
+	// .dl-menu.dl-menu-toggle {
+	// 	-webkit-transition: all 0.3s ease;
+	// 	-moz-transition: all 0.3s ease;
+	// 	transition: all 0.3s ease;
+	// }
 	.dl-menu.dl-menuopen {
 		opacity: 1;
 		pointer-events: auto;
 		-webkit-transform: translateY(0px);
 		-moz-transform: translateY(0px);
 		transform: translateY(0px);
-		@media #{$notsmall} {
-			opacity: 0.91;
-		}
+		// @media #{$notsmall} {
+		// 	opacity: 0.91;
+		// }
 	}
 	.dl-submenu {
 		@include rounded(3px);
@@ -204,19 +216,22 @@ All this is done for any sub-level being entered.
 }
 @-webkit-keyframes MenuAnimOut {
 	100% {
-		-webkit-transform: translateZ(300px);
+		-webkit-transform: translateZ(0px);
+		// -webkit-transform: translateZ(300px);
 		opacity: 0;
 	}
 }
 @-moz-keyframes MenuAnimOut {
 	100% {
-		-moz-transform: translateZ(300px);
+		-moz-transform: translateZ(0px);
+		// -moz-transform: translateZ(300px);
 		opacity: 0;
 	}
 }
 @keyframes MenuAnimOut {
 	100% {
-		transform: translateZ(300px);
+		transform: translateZ(0px);
+		// transform: translateZ(300px);
 		opacity: 0;
 	}
 }
@@ -227,7 +242,8 @@ All this is done for any sub-level being entered.
 }
 @-webkit-keyframes MenuAnimIn {
 	0% {
-		-webkit-transform: translateZ(300px);
+		-webkit-transform: translateZ(0px);
+		// -webkit-transform: translateZ(300px);
 		opacity: 0;
 	}
 	100% {
@@ -237,7 +253,8 @@ All this is done for any sub-level being entered.
 }
 @-moz-keyframes MenuAnimIn {
 	0% {
-		-moz-transform: translateZ(300px);
+		-moz-transform: translateZ(0px);
+		// -moz-transform: translateZ(300px);
 		opacity: 0;
 	}
 	100% {
@@ -247,7 +264,8 @@ All this is done for any sub-level being entered.
 }
 @keyframes MenuAnimIn {
 	0% {
-		transform: translateZ(300px);
+		transform: translateZ(0px);
+		// transform: translateZ(300px);
 		opacity: 0;
 	}
 	100% {
@@ -262,7 +280,8 @@ All this is done for any sub-level being entered.
 }
 @-webkit-keyframes SubMenuAnimIn {
 	0% {
-		-webkit-transform: translateZ(-300px);
+		-webkit-transform: translateZ(0px);
+		// -webkit-transform: translateZ(-300px);
 		opacity: 0;
 	}
 	100% {
@@ -272,7 +291,8 @@ All this is done for any sub-level being entered.
 }
 @-moz-keyframes SubMenuAnimIn {
 	0% {
-		-moz-transform: translateZ(-300px);
+		-moz-transform: translateZ(0px);
+		// -moz-transform: translateZ(-300px);
 		opacity: 0;
 	}
 	100% {
@@ -282,7 +302,8 @@ All this is done for any sub-level being entered.
 }
 @keyframes SubMenuAnimIn {
 	0% {
-		transform: translateZ(-300px);
+		transform: translateZ(0px);
+		// transform: translateZ(-300px);
 		opacity: 0;
 	}
 	100% {
@@ -301,7 +322,8 @@ All this is done for any sub-level being entered.
 		opacity: 1;
 	}
 	100% {
-		-webkit-transform: translateZ(-300px);
+		-webkit-transform: translateZ(0px);
+		// -webkit-transform: translateZ(-300px);
 		opacity: 0;
 	}
 }
@@ -311,7 +333,8 @@ All this is done for any sub-level being entered.
 		opacity: 1;
 	}
 	100% {
-		-moz-transform: translateZ(-300px);
+		-moz-transform: translateZ(0px);
+		// -moz-transform: translateZ(-300px);
 		opacity: 0;
 	}
 }
@@ -321,7 +344,8 @@ All this is done for any sub-level being entered.
 		opacity: 1;
 	}
 	100% {
-		transform: translateZ(-300px);
+		transform: translateZ(0px);
+		// transform: translateZ(-300px);
 		opacity: 0;
 	}
 }
