@@ -2,7 +2,7 @@
 layout: education
 title: "Graduation: UFPE"
 date: 2025-05-08
-excerpt: "Since 2022 until now..."
+excerpt: "From 2022 until now..."
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true

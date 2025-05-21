@@ -2,7 +2,7 @@
 layout: education
 title: "High School: Colégio Único"
 date: 2025-04-20
-excerpt: "3 Years"
+excerpt: "Jan 2015"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true

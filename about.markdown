@@ -25,6 +25,7 @@ Fluent in English at an upper-intermediate level, Gabriel is constantly investin
 - 🧠 Creative Problem-Solving
 - ⚙️ System Optimization
 - 👥 People, Process and Inventory Management
+- 🐍 Python
 
 <br>
 
@@ -32,7 +33,7 @@ Fluent in English at an upper-intermediate level, Gabriel is constantly investin
 
 - 🧪 Automated Testing
 - 💻 C / C++
-- 🤖 Machine Learning
+- 🤖 Machine Learning (AI)
 - 🎤 Public Speaking
 - 🔒 Network Security
 
