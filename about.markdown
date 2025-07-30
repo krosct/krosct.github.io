@@ -26,16 +26,19 @@ Fluent in English at an upper-intermediate level, Gabriel is constantly investin
 - ⚙️ System Optimization
 - 👥 People, Process and Inventory Management
 - 🐍 Python
+- 🐙 Intermediate Git/GitHub
+- 💻 C / C++
 
 <br>
 
 ## Gabriel is going to be good at 📈
 
 - 🧪 Automated Testing
-- 💻 C / C++
 - 🤖 Machine Learning (AI)
 - 🎤 Public Speaking
 - 🔒 Network Security
+- 🌐 Cyber Security
+- 🗄️ Data base
 
 <br>
 
