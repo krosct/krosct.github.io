@@ -4,3 +4,15 @@ _site
 .jekyll-metadata
 vendor
 trashbin/*
+# Arquivos de ambiente local (se você usar rvm ou rbenv)
+.ruby-version
+.ruby-version.*
+
+# Arquivos gerados por plugins/ferramentas comuns
+_tmp/
+.jekyll-lsi/
+
+# Arquivos de log e backups
+*.log
+*~
+*.swp
