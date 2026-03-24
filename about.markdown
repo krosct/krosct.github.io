@@ -1,54 +1,48 @@
 ---
 layout: page
-title: About Me
+title: Sobre mim
 tags: [about, me, myself, resume]
 date: 2025-04-17
 comments: false
 ---
 
-# Who is Gabriel
+# Quem é Gabriel
 
-Gabriel is a dynamic and committed person who combines an academic background with extensive hands-on experience in project, systems, people, process, and inventory management.
-
-Graduated in Business Process Management, he stands out for his mastery of control tools such as advanced spreadsheets and his ability to systematize and coordinate activities. Additionally, his more than six years of experience in environments that demand constant adaptation and flexibility, combined with active listening and emotional intelligence, make him a valuable asset to any team.
-
-His commitment to personal growth is reinforced by a continuous improvement of knowledge, demonstrated by various training courses and his current return to a Computer Science degree.
-
-Fluent in English at an upper-intermediate level, Gabriel is constantly investing in expanding his range of opportunities in an increasingly globalized market. In short, his journey reflects not only a solid technical and managerial foundation, but also the ability to turn challenges into opportunities for growth and innovation.
+Gabriel é graduando em Ciência da Computação na UFPE e formado em Processos Gerenciais no SENAC, com mais de seis anos de experiência em gestão de projetos, pessoas e inventário. Gosta de sistematizar atividades e domina planilhas. Possui inglês em nível intermediário e está se especializando na área de testes de software e inteligência artificial aplicado à cibersegurança.
 
 <br>
 
-## Gabriel is good at ✅
+## Habilidades Técnicas ✅
 
-- 📊 Spreadsheets (Excel, Google Sheets, etc.)
-- 🌐 Upper-intermediate English
-- 🧠 Creative Problem-Solving
-- ⚙️ System Optimization
-- 👥 People, Process and Inventory Management
+- 📊 Planilhas (Excel, Google Sheets, etc.)
+- 🌐 Inglês Intermediario
+- 🧠 Resolução de problema criativo
+- ⚙️ Otimização de processos
+- 👥 Gerenciamento de projetos, pessoas e inventário
 - 🐍 Python
-- 🐙 Intermediate Git/GitHub
+- 🐙 Git/GitHub Intermediario
 - 💻 C / C++
 
 <br>
 
-## Gabriel is going to be good at 📈
+## Habilidades Sociais 🧠
 
-- 🧪 Automated Testing
-- 🤖 Machine Learning (AI)
-- 🎤 Public Speaking
-- 🔒 Network Security
-- 🌐 Cyber Security
-- 🗄️ Data base
+- 👂 Escuta Ativa
+- 💪 Resiliência
+- 🤝 Trabalho em Grupo
+- 🔍 Curiosidade
+- 🧭 Auto Suficiente
 
 <br>
 
-## Gabriel's Soft Skills 🧠
+## Aperfeiçoando... 📈
 
-- 👂 Active Listening
-- 💪 Resilience
-- 🤝 Teamwork
-- 🔍 Curiosity
-- 🧭 Self-Sufficiency
+- 🧪 Testes Automatizados
+- 🤖 Aprendizagem de Máquina e Aprendizagem Profunda (IA)
+- 🎤 Falar em público
+- 🔒 Segurança da Informação
+- 🌐 Cibersegurança
+- 🗄️ Banco de Dados
 
 <br>
 ---

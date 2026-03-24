@@ -1,6 +1,6 @@
 ---
 layout: education-list
-title: Education
+title: Educação
 excerpt: "A List of My Education"
 comments: false
 ---

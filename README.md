@@ -81,16 +81,16 @@ Image for background. If you don't set it, color will be used as a background.
 To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
 
 {% highlight yaml %}
-- title: Home
+- title: Principal
   url: /
 
 - title: Blog
   url: /blog/
 
-- title: Projects
+- title: Projetos
   url: /projects/
 
-- title: About
+- title: Sobre mim
   url: /about/
 
 - title: Moon

@@ -1,6 +1,6 @@
 ---
 layout: experience-list
-title: Experience
+title: Experiência
 excerpt: "A List of My Experience"
 comments: false
 ---
