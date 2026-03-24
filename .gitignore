@@ -2,7 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
+# vendor
 trashbin/*
 # Arquivos de ambiente local (se você usar rvm ou rbenv)
 .ruby-version
