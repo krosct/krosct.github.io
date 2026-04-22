@@ -9,7 +9,7 @@ excerpt: "Set-2025 até o momento"
 image: "teaching assistant.png"
 ---
 
-### 🎓 **Monitoria | Lógica para Programação **
+### 🎓 **Monitoria | Lógica para Programação**
 
 ---
 
