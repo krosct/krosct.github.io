@@ -1,41 +1,41 @@
 ---
 layout: experience
-title: "Brazilian Army"
+title: "Exército Brasileiro"
 date: 2025-04-17
-excerpt: "7 years and 3 months serving my country under the army command."
+excerpt: "7 anos e 3 meses"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "exercito transparente.png"
 ---
 
-> To everyone’s surprise, including myself 😅 — I decided to serve in the army for a year. I can’t say for sure what led me to this decision, but it was a mix of wanting to test my limits, learn new things and being influenced by some family members 👨‍👩‍👦.
+> Para a surpresa de todos, inclusive a minha 😅 — decidi servir ao exército por um ano. Não sei dizer com certeza o que me levou a essa decisão, mas foi uma mistura de querer testar meus limites, aprender coisas novas e sofrer a influência de alguns familiares 👨‍👩‍👦.
 
->These years were wild and incredibly productive for me. They were very rewarding and worthwhile. I learned a lot, and in many ways, I gained control over my mind, desires, and emotions 🧠. And of course, I learned how to survive in the jungle 🌴 and paint curbs 🪣🎨.
-
----
-
-# 💼 Roles I Performed:
-
-- ### 🧑🏻‍🎓 Student
-#### February 2017 - December 2017 (11 months)
-A year of training to become a reserve officer at CPOR/R. I've got 1st place in the Cavalry Course 🥇 and won the Correia Lima Medal Award.
-
-- ### 🪖 Platoon Leader
-#### March 2018 – March 2019 (1 year, 1 month)
-My first role was an operational one where I led a group of soldiers in every aspect — guiding, supporting, and training them. Most of our time was dedicated to learning, teaching, practicing, and applying military tactics and combat strategies ⚔️🧭.
+> Esses anos foram intensos e incrivelmente produtivos para mim. Foram muito recompensadores e valeram a pena. Aprendi muito e, de várias formas, ganhei controle sobre minha mente, desejos e emoções 🧠. E, claro, aprendi como sobreviver na selva 🌴 e a pintar meio-fio 🪣🎨.
 
 ---
 
-- ### 📦 Logistics Manager
-#### March 2019 – December 2023 (4 years, 10 months)
-This was an administrative role. I managed a large warehouse that stored almost every type of material you can imagine. Among many responsibilities, I had to control, maintain, preserve, ration, distribute, and restock all supplies — which sometimes totaled up more than 4 million reais 💰📦.
+# 💼 Funções que Desempenhei:
+
+- ### 🧑🏻‍🎓 Aluno
+#### Fevereiro de 2017 - Dezembro de 2017 (11 meses)
+Um ano de treinamento para me tornar oficial da reserva no CPOR/R. Conquistei o 1º lugar no Curso de Cavalaria 🥇 e recebi a Medalha Correia Lima.
+
+- ### 🪖 Comandante de Pelotão
+#### Março de 2018 – Março de 2019 (1 ano, 1 mês)
+Minha primeira função foi operacional, onde liderei um grupo de soldados em todos os aspectos — orientando, apoiando e treinando-os. A maior parte do nosso tempo foi dedicada a aprender, ensinar, praticar e aplicar táticas militares e estratégias de combate ⚔️🧭.
 
 ---
 
-- ### 📊 Fiscal Director
-#### December 2023 – June 2024 (7 months)
-In this role, I was one of the responsible team for the financial and administrative management of the military organization I was serving. I had a comprehensive view of all economic operations, overseeing planning, budgeting, asset control, and property management 💼🏛️.
+- ### 📦 Gerente de Logística (Almoxarife)
+#### Março de 2019 – Dezembro de 2023 (4 anos, 10 meses)
+Esta foi uma função administrativa. Gerenciei um grande depósito que armazenava quase todo tipo de material que se possa imaginar. Entre muitas responsabilidades, eu devia controlar, manter, preservar, racionar, distribuir e repor todos os suprimentos — que, por vezes, totalizavam mais de 4 milhões de reais 💰📦.
+
+---
+
+- ### 📊 Diretor Fiscal
+#### Dezembro de 2023 – Junho de 2024 (7 meses)
+Nesta função, fui um dos responsáveis pela gestão financeira e administrativa da organização militar em que servia. Tive uma visão abrangente de todas as operações econômicas, supervisionando o planejamento, orçamento, controle de ativos e gestão patrimonial 💼🏛️.
 
 ---
 
@@ -43,8 +43,8 @@ In this role, I was one of the responsible team for the financial and administra
 <br>
 <br>
 
-🇧🇷 &nbsp;**[Brazilian Hymn](https://www.letras.mus.br/hinos-de-paises/46368/){:target="_blank"}**  
-🐎 **[Cavalry Hymn](https://www.letras.mus.br/exercito-brasileiro/435235/){:target="_blank"}**  
+🇧🇷 &nbsp;**[Hino do Brasil](https://www.letras.mus.br/hinos-de-paises/46368/){:target="_blank"}**  
+🐎 **[Canção da Cavalaria](https://www.letras.mus.br/exercito-brasileiro/435235/){:target="_blank"}**  
 🎖️ **[Soldados, a cavalaria](https://www.letras.mus.br/exercito-brasileiro/soldados-a-cavalaria/){:target="_blank"}**
 
 > Soldados, a Cavalaria  

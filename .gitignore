@@ -16,3 +16,4 @@ _tmp/
 *.log
 *~
 *.swp
+path_gd.rclone

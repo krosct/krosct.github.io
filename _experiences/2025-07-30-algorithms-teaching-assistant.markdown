@@ -1,35 +1,35 @@
 ---
 layout: experience
-title: "Algorithms Teaching Assistant"
+title: "Monitor de Algoritmos e Estrutura de Dados"
 date: 2025-07-30
-excerpt: "A way to improve my own knownledge and help others in matter of algorithms."
+excerpt: "10 meses"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "teaching assistant.png"
 ---
 
-### 🎓 **Teaching Assistant | Algorithms & Data Structures**
+### 🎓 **Monitoria | Algoritmos e Estruturas de Dados**
 
 ---
 
-#### 🎯 **Project Overview**
-This project was a teaching assistantship for the foundational "Algorithms and Data Structures" course, a core component of the Information Systems curriculum. The primary goal was twofold: to enhance student learning through hands-on, personalized support and to provide teaching assistants (TAs) with practical experience in academic and teaching activities. As a TA, I played a vital role in bridging the gap between theory and practice in a lab-based learning environment.
+#### 🎯 **Visão Geral do Projeto**
+Este projeto consistiu em uma monitoria para a disciplina fundamental de "Algoritmos e Estruturas de Dados", um componente central do currículo de Sistemas de Informação. O objetivo principal era duplo: aprimorar o aprendizado dos alunos por meio de suporte prático e personalizado e proporcionar aos monitores experiência prática em atividades acadêmicas e de ensino. Como monitor, desempenhei um papel vital em unir a teoria e a prática em um ambiente de aprendizagem baseado em laboratório.
 
 ---
 
-#### ✅ **Key Responsibilities & Accomplishments**
+#### ✅ **Principais Responsabilidades e Realizações**
 
-* 👥 **Mentorship and Tutoring:** Provided direct support to students during practical lab sessions and online, helping them solve complex problems, debug code, and understand core theoretical concepts.
-* 📝 **Content Development:** Actively collaborated with the professor to design and develop challenging exercises, practical activities, and problem sets that aligned with the curriculum and stimulated critical thinking.
-* 💻 **Practical Implementation Support:** Assisted students in applying algorithms and data structures in general-purpose programming languages, ensuring they could translate theoretical knowledge into real-world computational solutions.
-* 🤝 **Fostering a Collaborative Environment:** Facilitated an interactive and inclusive learning atmosphere, offering continuous feedback to help students build confidence and improve their academic performance.
-* 🔄 **Methodology Support:** Aided in the implementation of active learning methodologies, such as the Flipped Classroom, by preparing students for classes and facilitating discussions.
+* 👥 **Mentoria e Tutoria:** Ofereci suporte direto aos alunos durante as aulas práticas de laboratório e online, auxiliando na resolução de problemas complexos, depuração (debug) de código e compreensão de conceitos teóricos fundamentais.
+* 📝 **Desenvolvimento de Conteúdo:** Colaborei ativamente com o professor na concepção e desenvolvimento de exercícios desafiadores, atividades práticas e listas de problemas alinhados ao currículo e que estimulassem o pensamento crítico.
+* 💻 **Suporte à Implementação Prática:** Auxiliei os alunos na aplicação de algoritmos e estruturas de dados em linguagens de programação de propósito geral, garantindo que conseguissem traduzir o conhecimento teórico em soluções computacionais reais.
+* 🤝 **Promoção de um Ambiente Colaborativo:** Facilitei uma atmosfera de aprendizado interativa e inclusiva, oferecendo feedback contínuo para ajudar os alunos a ganharem confiança e melhorarem seu desempenho acadêmico.
+* 🔄 **Suporte Metodológico:** Auxiliei na implementação de metodologias de aprendizagem ativa, como a Sala de Aula Invertida, preparando os alunos para as aulas e facilitando discussões.
 
 ---
 
-#### ⭐ **Outcomes**
-This role is helping me develop my professional skills in teaching, leadership, and technical communication. By explaining complex topics and creating educational content, I significantly deepened my own expertise in algorithms, data structures, and performance analysis. The project successfully contributed to higher student engagement and a stronger grasp of fundamental computer science principles.
+#### ⭐ **Resultados**
+Esta função está me ajudando a desenvolver competências profissionais em ensino, liderança e comunicação técnica. Ao explicar tópicos complexos e criar conteúdo educacional, aprofundei significativamente minha própria expertise em algoritmos, estruturas de dados e análise de desempenho. O projeto contribuiu com sucesso para um maior engajamento dos alunos e uma compreensão mais sólida dos princípios fundamentais da ciência da computação.
 
 ---
 
