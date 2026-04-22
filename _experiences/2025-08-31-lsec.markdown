@@ -1,0 +1,39 @@
+---
+layout: experience
+title: "Integrante da Liga de Segurança Cibernética"
+date: 2025-08-31
+excerpt: "Ago-2025 até o momento"
+# tags: [when i need, storage, memory]
+# feature: http://i.imgur.com/Ds6S7lJ.png
+# comments: true
+image: "icone lsec.jpeg"
+---
+
+### 🛡️ **Membro Integrante | LSEC (Liga de Segurança Cibernética) CIn - UFPE**
+
+---
+
+#### 🎯 **Visão Geral**
+Como membro integrante da LSEC, participo ativamente da primeira liga acadêmica dedicada à segurança da informação no Centro de Informática da UFPE. A liga atua como um hub de excelência para o estudo de vulnerabilidades, defesa de sistemas e preparação para competições de alto nível, conectando estudantes entusiastas ao cenário real de cibersegurança.
+
+---
+
+#### ✅ **Principais Atividades & Contribuições**
+
+* 🛜 **Grupo de Redes:** Participação no grupo de redes que estuda a aplicação de conhecimentos da área de segurança cibernética aplicada à redes e infraestruturas de comunicações.
+* 🛡️ **Pesquisa e Estudos de Segurança:** Investigação de novas vulnerabilidades e técnicas de defesa (Blue Team) e ataque (Red Team), mantendo-se atualizado com as tendências de ameaças globais e contramedidas.
+* 🤝 **Disseminação de Conhecimento:** Colaboração na organização de workshops, palestras e eventos internos para promover a conscientização sobre segurança cibernética dentro e fora do ambiente acadêmico.
+* 🌐 **Networking e Colaboração:** Integração com um ecossistema de alunos e professores especialistas, fortalecendo a cultura de segurança do CIn e estabelecendo pontes com o mercado de InfoSec.
+
+---
+
+#### ⭐ **Impacto e Competências**
+Minha atuação na LSEC está me permitindo desenvolver um **mindset orientado à segurança**, essencial para qualquer desenvolvedor, engenheiro de software ou cientista da computação hoje. Além do ganho técnico direto em ferramentas de pentest e análise de redes, a liga aprimorou minha capacidade de trabalhar em equipes multidisciplinares sob pressão e minha habilidade de analisar sistemas sob uma ótica crítica e resiliente.
+
+---
+
+<br>
+<br>
+<br>
+
+> “Se eu tivesse apenas 8 horas para cortar uma árvore gastaria 6 afiando o machado.” Abraham Lincoln 
