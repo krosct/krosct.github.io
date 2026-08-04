@@ -1,15 +1,15 @@
 ---
 layout: education
-title: "Course: Advanced Excel"
+title: "Curso: Avançado em Excel"
 date: 2025-04-23
-excerpt: "Oct 2020"
+excerpt: "Outubro 2020"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "senac.png"
 ---
 
-# 🎓 Course
+# 🎓 Curso
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 layout: education
-title: "Graduation: UFPE"
+title: "Graduação: Ciência da Computação - UFPE"
 date: 2025-05-08
-excerpt: "From 2022 until now..."
+excerpt: "De 2022 até o momento..."
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "ufpe.png"
 ---
 
-# 🎓 Educational Background
+# 🎓 Formação Acadêmica
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 layout: education
-title: "High School: Colégio Único"
+title: "Ensino Médio: Colégio Único"
 date: 2025-04-20
-excerpt: "Jan 2015"
+excerpt: "Janeiro 2015"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "colegio unico.png"
 ---
 
-# 🎓 Educational Background
+# 🎓 Formação Acadêmica
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 layout: education
-title: "Course: Advanced Word"
+title: "Curso: Avançado em Word"
 date: 2025-04-27
-excerpt: "Jan 2022"
+excerpt: "Janeiro 2022"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "senac.png"
 ---
 
-# 🎓 Course
+# 🎓 Curso
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 layout: education
-title: "Course: MASP"
+title: "Curso: MASP"
 date: 2025-04-24
-excerpt: "Nov 2020"
+excerpt: "Novembro 2020"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "senac.png"
 ---
 
-# 🎓 Course
+# 🎓 Curso
 
 ---
 

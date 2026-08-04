@@ -1,15 +1,15 @@
 ---
 layout: education
-title: "Course: Internal Quality Audit"
+title: "Curso: Auditoria Interna da Qualidade"
 date: 2025-04-26
-excerpt: "Nov 2021"
+excerpt: "Novembro 2021"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "senac.png"
 ---
 
-# 🎓 Course
+# 🎓 Curso
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 layout: education
-title: "Graduation: Senac"
+title: "Graduação: Processos Gerenciais - Senac"
 date: 2025-05-07
-excerpt: "Jun 2020"
+excerpt: "Junho 2020"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "senac.png"
 ---
 
-# 🎓 Educational Background
+# 🎓 Formação Acadêmica
 
 ---
 

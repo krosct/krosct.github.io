@@ -1,15 +1,15 @@
 ---
 layout: education
-title: "Course: Conflicts Management"
+title: "Curso: Gerenciamento de Conflitos"
 date: 2025-04-21
-excerpt: "Apr 2020"
+excerpt: "Abril 2020"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "senac.png"
 ---
 
-# 🎓 Course
+# 🎓 Curso
 
 ---
 
