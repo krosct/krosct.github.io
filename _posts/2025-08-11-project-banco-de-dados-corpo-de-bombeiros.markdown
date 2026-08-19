@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SGDB para o Corpo de Bombeiros"
+title: "SGBD para o Corpo de Bombeiros"
 date: 2025-08-11
 excerpt: "Um Sistema Básico de Gerenciamento para o Corpo de Bombeiros"
 project: true
