@@ -40,6 +40,12 @@ layout: compress
                             <i class="fa fa-github fa-lg"></i> Ver Repositório
                         </a>
                     {% endif %}
+
+                    {% if page.project and page.live_url %}
+                        <a href="{{ page.live_url }}" target="_blank" class="btn btn-info">
+                            <i class="fa fa-external-link fa-lg"></i> Acessar App
+                        </a>
+                    {% endif %}
                 </div>
                 {{ content }}
                 <div class="entry-meta">
