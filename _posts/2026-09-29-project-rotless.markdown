@@ -6,6 +6,7 @@ excerpt: "Web app de despensa inteligente que controla a validade dos alimentos 
 project: true
 github_rep: "https://github.com/krosct/rotless"
 live_url: "https://rotless.gms.xyz.br"
+image: "/assets/img/projects/rotless/rotless-logo.png"
 ---
 
 <div align="center">

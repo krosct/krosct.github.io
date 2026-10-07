@@ -4,6 +4,7 @@ title: "O Ar Live"
 date: 2026-10-05
 excerpt: "Jogo de guerra e conquista transmitido ao vivo, em que até 9 comandantes disputam um globo 3D com ordens digitadas no chat da live"
 project: true
+image: "/assets/img/projects/o_ar_live/01-abertura.jpg"
 ---
 
 <div align="center">

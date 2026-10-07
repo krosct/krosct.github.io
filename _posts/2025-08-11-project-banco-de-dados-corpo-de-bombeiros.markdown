@@ -5,6 +5,7 @@ date: 2025-08-11
 excerpt: "Um Sistema Básico de Gerenciamento para o Corpo de Bombeiros"
 project: true
 github_rep: "https://github.com/krosct/IF685-GDI-CC-2025.1-G1"
+image: "/assets/img/projects/banco_de_dados_corpo_de_bombeiros/sgbd.jpg"
 ---
 
 # 🚒 Sistema de Gerenciamento para o Corpo de Bombeiros
