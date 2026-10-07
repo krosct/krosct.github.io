@@ -5,6 +5,7 @@ date: 2025-12-14
 excerpt: "Plataforma de agendamento de intercâmbios focada exclusivamente na segurança e empoderamento feminino"
 project: true
 github_rep: "https://github.com/krosct/Projetao-SafeJourney"
+image: "/assets/img/projects/women_go_safe/WomenGoSafeLogo.png"
 ---
 
 <div align="center">

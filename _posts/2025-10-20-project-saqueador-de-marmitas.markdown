@@ -5,6 +5,7 @@ date: 2025-10-20
 excerpt: "Implementação visual e interativa de algoritmos de busca clássicos da Inteligência Artificial"
 project: true
 github_rep: "https://github.com/krosct/Saqueador_de_Marmitas"
+image: "/assets/img/projects/saqueador_de_marmitas/saqueador.png"
 ---
 
 # 🤖 Saqueador de Marmitas

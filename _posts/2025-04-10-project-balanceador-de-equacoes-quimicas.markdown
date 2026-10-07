@@ -5,6 +5,7 @@ date: 2025-04-10
 excerpt: "Um programa desenvolvido em Python que permite balancear equações químicas de forma automática."
 project: true
 github_rep: "https://github.com/krosct/CFB_Chemical-Formula-Balancer"
+image: "/assets/img/projects/balanceador_de_equacoes_quimicas/initial screen.png"
 ---
 
 # Balanceador de Equações Químicas ⚖️🧪

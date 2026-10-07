@@ -5,6 +5,7 @@ date: 2025-11-19
 excerpt: "Sistema Simples de Kanban"
 project: true
 github_rep: "https://github.com/krosct/Kanban-ESS-Desafio"
+image: "/assets/img/projects/laite_kanban/laite-kaban-title.png"
 ---
 
 <div align="center">

@@ -5,6 +5,7 @@ date: 2025-12-09
 excerpt: "Projeto de cibersegurança e aprendizado profundo que visa detectar URLs maliciosas"
 project: true
 github_rep: "https://github.com/krosct/URLifeguard"
+image: "/assets/img/projects/urllifeguard/urllifeguard.png"
 ---
 # URLifeguard 🛡️
 ### Detecção de URLs Maliciosas com Deep Learning (Character-Level)

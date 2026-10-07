@@ -5,6 +5,7 @@ date: 2025-12-11
 excerpt: "Solução tecnológica robusta e acessível que auxilia na identificação de notícias falsas"
 project: true
 github_rep: "https://github.com/krosct/Project-ARGOS-ESS"
+image: "/assets/img/projects/argos/argos.png"
 ---
 
 # 🤖 Project Argos: Plataforma de Detecção de Fake News

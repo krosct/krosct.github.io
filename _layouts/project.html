@@ -20,14 +20,26 @@ layout: compress
                     <a class="btn zoombtn" href="{{site.url}}">
                         <i class="fa fa-home"></i>
                     </a>
+                    <a class="btn btn-extra1 zoombtn" href="{{site.url}}/experiences/">
+                        Experiências
+                    </a>
                 </div>
-                <div class="post-list">
+                <div class="postwimg-list">
                     {% for post in site.posts %} 
                         {% if post.project %}
                     <ul>
-                        <li>
+                        {% if post.image %}
+                        <li class="w-15">
+                            <img src="{{ site.url }}{{ post.image }}" alt="{{ post.title }}">
+                        </li>
+                        <li class="w-65">
+                        {% else %}
+                        <li class="w-85">
+                        {% endif %}
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
+                        </li>
+                        <li class="w-10">
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Ler Mais</a>
                         </li>
                     </ul>
