@@ -2,7 +2,7 @@
 layout: experience
 title: "Monitor de Banco de Dados"
 date: 2026-04-22
-excerpt: "4 meses"
+excerpt: "Setembro 2025 — Dezembro 2025 (4 meses)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true

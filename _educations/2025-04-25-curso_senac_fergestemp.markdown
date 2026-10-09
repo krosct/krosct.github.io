@@ -2,7 +2,7 @@
 layout: education
 title: "Curso: Ferramentas de Planejamento e Gestão de Negócios"
 date: 2025-04-25
-excerpt: "Julho 2021"
+excerpt: "Julho 2021 — Julho 2021 (1 mês)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true

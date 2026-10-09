@@ -4,8 +4,12 @@ $(function() {
     animationClasses : { classin : 'dl-animate-in', classout : 'dl-animate-out' }
   });
 });
-// Need this to show animation when go back in browser
-window.onunload = function() {};
+// Reapply fadeIn when the page is restored from bfcache (browser back button)
+window.addEventListener("pageshow", function(e) {
+  if (e.persisted) {
+    $(".container, .wrapper").removeClass("fadeOut").addClass("fadeIn");
+  }
+});
 
 // Add lightbox class to all image links
 $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
