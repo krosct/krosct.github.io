@@ -2,7 +2,7 @@
 layout: experience
 title: "Integrante da Liga de Segurança Cibernética"
 date: 2025-08-31
-excerpt: "Ago-2025 até o momento"
+excerpt: "Agosto 2025 — o momento"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true

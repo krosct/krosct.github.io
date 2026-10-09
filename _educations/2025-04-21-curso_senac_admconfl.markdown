@@ -2,7 +2,7 @@
 layout: education
 title: "Curso: Gerenciamento de Conflitos"
 date: 2025-04-21
-excerpt: "Abril 2020"
+excerpt: "Abril 2020 — Abril 2020 (1 mês)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true

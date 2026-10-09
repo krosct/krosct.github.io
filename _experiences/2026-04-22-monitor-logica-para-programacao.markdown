@@ -2,7 +2,7 @@
 layout: experience
 title: "Monitor de Lógica para Programação"
 date: 2026-04-22
-excerpt: "Set-2025 até o momento"
+excerpt: "Setembro 2025 — Agosto 2026 (1 ano)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true

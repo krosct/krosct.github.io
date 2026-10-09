@@ -2,7 +2,7 @@
 layout: education
 title: "Curso: Gerenciamento do Tempo"
 date: 2025-04-22
-excerpt: "Agosto 2020"
+excerpt: "Agosto 2020 — Agosto 2020 (1 mês)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
