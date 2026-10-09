@@ -4,11 +4,19 @@ $(function() {
     animationClasses : { classin : 'dl-animate-in', classout : 'dl-animate-out' }
   });
 });
-// Reapply fadeIn when the page is restored from bfcache (browser back button)
-window.addEventListener("pageshow", function(e) {
-  if (e.persisted) {
-    $(".container, .wrapper").removeClass("fadeOut").addClass("fadeIn");
+// When the browser restores a page from the bfcache (back/forward button), clear
+// the fadeOut state left by the zoombtn click so the content becomes visible
+// immediately, without replaying the fadeIn animation (which caused a flicker).
+window.addEventListener("pageshow", function (event) {
+  if (event.persisted) {
+    $(".container, .wrapper").removeClass("fadeOut fadeIn").css("opacity", "");
   }
+});
+
+// Clear the fadeOut state before the page is frozen in the bfcache, so going
+// back shows the restored page instantly (no blank frame and no animation).
+window.addEventListener("pagehide", function () {
+  $(".container, .wrapper").removeClass("fadeOut fadeIn").css("opacity", "");
 });
 
 // Add lightbox class to all image links
@@ -28,9 +36,22 @@ $(document).ready(function() {
     if ($(".wrapper").hasClass('fadeOut')) {
         $(".wrapper").removeClass("fadeOut").addClass("fadeIn");
     }
-    $(".zoombtn").click(function() {
-        $(".container").removeClass("fadeIn").addClass("fadeOut");
-        $(".wrapper").removeClass("fadeIn").addClass("fadeOut");
+    // Fade the current page out, then navigate, so the fadeOut is actually seen.
+    $(".zoombtn").click(function (event) {
+        // Let modifier/new-tab clicks behave normally.
+        if (event.which === 2 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+            return;
+        }
+        var href = $(this).attr("href");
+        if (!href || href.charAt(0) === "#") {
+            return;
+        }
+        event.preventDefault();
+        $(".container, .wrapper").removeClass("fadeIn").addClass("fadeOut");
+        // Wait for the 1s fadeOut to finish before switching pages.
+        window.setTimeout(function () {
+            window.location.href = href;
+        }, 1000);
     });
     // go up button
     $.goup({
