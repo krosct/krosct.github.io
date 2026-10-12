@@ -95,6 +95,11 @@ body {
         border-radius: 3%;
     }
 }
+.container.animated,
+.wrapper.animated {
+    -webkit-animation-duration: 0.5s;
+    animation-duration: 0.5s;
+}
 .row {
     justify-content: center;
     margin-top: 25px;
