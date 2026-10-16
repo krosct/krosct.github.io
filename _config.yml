@@ -5,7 +5,7 @@ description: "Este é um resumo de Gabriel e será atualizado periodicamente ass
 reading_time: true
 words_per_minute: 230
 logo: "assets/img/perfil1.jpg"
-background: "assets/img/bg_photo.jpg"
+background: "assets/img/bg_photo_1920.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
 url: https://krosct.github.io
