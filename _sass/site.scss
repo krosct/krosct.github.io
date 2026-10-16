@@ -233,3 +233,13 @@ header .entry-meta {
         background-position: center center;
     }
 }
+
+// Page transition: zoombtn fadeOut + next page fadeIn, 0.75s each (1.5s total).
+// Keep in sync with the navigation delay in assets/js/scripts.js.
+.wrapper.animated.fadeIn,
+.wrapper.animated.fadeOut,
+.container.animated.fadeIn,
+.container.animated.fadeOut {
+  -webkit-animation-duration: 0.75s;
+  animation-duration: 0.75s;
+}

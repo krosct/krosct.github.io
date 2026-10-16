@@ -4,19 +4,19 @@ $(function() {
     animationClasses : { classin : 'dl-animate-in', classout : 'dl-animate-out' }
   });
 });
+// True while a zoombtn fadeOut is running before navigating away.
+var navigating = false;
+
 // When the browser restores a page from the bfcache (back/forward button), clear
 // the fadeOut state left by the zoombtn click so the content becomes visible
-// immediately, without replaying the fadeIn animation (which caused a flicker).
+// immediately, without replaying the fadeIn animation.
+// Note: don't reset the state on "pagehide" — it fires right before the next
+// page paints, so the faded-out page would flash back on screen.
 window.addEventListener("pageshow", function (event) {
   if (event.persisted) {
-    $(".container, .wrapper").removeClass("fadeOut fadeIn").css("opacity", "");
+    $(".container, .wrapper").removeClass("fadeOut fadeIn");
+    navigating = false;
   }
-});
-
-// Clear the fadeOut state before the page is frozen in the bfcache, so going
-// back shows the restored page instantly (no blank frame and no animation).
-window.addEventListener("pagehide", function () {
-  $(".container, .wrapper").removeClass("fadeOut fadeIn").css("opacity", "");
 });
 
 // Add lightbox class to all image links
@@ -47,11 +47,16 @@ $(document).ready(function() {
             return;
         }
         event.preventDefault();
+        // Ignore repeated clicks while the fadeOut is already running.
+        if (navigating) {
+            return;
+        }
+        navigating = true;
         $(".container, .wrapper").removeClass("fadeIn").addClass("fadeOut");
-        // Wait for the 1s fadeOut to finish before switching pages.
+        // Wait for the 0.75s fadeOut (see _sass/site.scss) to finish before switching pages.
         window.setTimeout(function () {
             window.location.href = href;
-        }, 1000);
+        }, 750);
     });
     // go up button
     $.goup({
