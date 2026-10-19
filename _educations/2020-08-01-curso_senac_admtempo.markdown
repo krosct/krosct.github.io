@@ -1,8 +1,8 @@
 ---
 layout: education
-title: "Curso: Avançado em Excel"
-date: 2025-04-23
-excerpt: "Outubro 2020 — Outubro 2020 (1 mês)"
+title: "Curso: Gerenciamento do Tempo"
+date: 2020-08-01
+excerpt: "Agosto 2020 — Agosto 2020 (1 mês)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
@@ -14,8 +14,8 @@ image: "senac.png"
 ---
 
 ## 💼 Centro Universitário Senac
-**Curso Online - Excel Recursos Avançados**
+**Curso Online -  Administração do Tempo**
 
 📍 *Brasil - São Paulo - São Paulo*
 
-📅 **Outubro de 2020**
+📅 **Agosto de 2020**

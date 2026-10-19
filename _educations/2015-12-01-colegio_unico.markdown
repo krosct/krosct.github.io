@@ -1,7 +1,7 @@
 ---
 layout: education
 title: "Ensino Médio: Colégio Único"
-date: 2025-04-20
+date: 2015-12-01
 excerpt: "Janeiro 2013 — Dezembro 2015 (3 anos)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png

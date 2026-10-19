@@ -1,8 +1,8 @@
 ---
 layout: education
-title: "Curso: Auditoria Interna da Qualidade"
-date: 2025-04-26
-excerpt: "Novembro 2021 — Novembro 2021 (1 mês)"
+title: "Curso: Gerenciamento de Conflitos"
+date: 2020-04-01
+excerpt: "Abril 2020 — Abril 2020 (1 mês)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
@@ -14,8 +14,8 @@ image: "senac.png"
 ---
 
 ## 💼 Centro Universitário Senac
-**Curso Online - Auditoria Interna de Qualidade**
+**Curso Online - Administração de Conflitos**
 
 📍 *Brasil - São Paulo - São Paulo*
 
-📅 **Novembro de 2021**
+📅 **Abril de 2020**

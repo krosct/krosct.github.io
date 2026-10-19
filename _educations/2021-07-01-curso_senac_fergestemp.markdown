@@ -1,8 +1,8 @@
 ---
 layout: education
-title: "Curso: MASP"
-date: 2025-04-24
-excerpt: "Novembro 2020 — Novembro 2020 (1 mês)"
+title: "Curso: Ferramentas de Planejamento e Gestão de Negócios"
+date: 2021-07-01
+excerpt: "Julho 2021 — Julho 2021 (1 mês)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
@@ -14,8 +14,8 @@ image: "senac.png"
 ---
 
 ## 💼 Centro Universitário Senac
-**Curso Online - Metodologia para Análise e Soluções de Problemas: MASP**
+**Curso Online - Ferramentas de Planejamento e Gestão Empresarial**
 
 📍 *Brasil - São Paulo - São Paulo*
 
-📅 **Novembro de 2020**
+📅 **Julho de 2021**

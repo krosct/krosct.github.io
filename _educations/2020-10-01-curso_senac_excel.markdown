@@ -1,8 +1,8 @@
 ---
 layout: education
-title: "Curso: Avançado em Word"
-date: 2025-04-27
-excerpt: "Janeiro 2022 — Janeiro 2022 (1 mês)"
+title: "Curso: Avançado em Excel"
+date: 2020-10-01
+excerpt: "Outubro 2020 — Outubro 2020 (1 mês)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
@@ -14,8 +14,8 @@ image: "senac.png"
 ---
 
 ## 💼 Centro Universitário Senac
-**Curso Online - Word Recursos Avançados**
+**Curso Online - Excel Recursos Avançados**
 
 📍 *Brasil - São Paulo - São Paulo*
 
-📅 **Janeiro de 2022**
+📅 **Outubro de 2020**

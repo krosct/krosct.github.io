@@ -1,7 +1,7 @@
 ---
 layout: experience
 title: "Exército Brasileiro"
-date: 2025-04-17
+date: 2024-06-01
 excerpt: "Fevereiro 2017 — Junho 2024 (7 anos e 5 meses)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png

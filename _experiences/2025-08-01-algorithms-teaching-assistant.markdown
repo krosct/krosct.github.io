@@ -1,7 +1,7 @@
 ---
 layout: experience
 title: "Monitor de Algoritmos e Estrutura de Dados"
-date: 2025-07-30
+date: 2025-08-01
 excerpt: "Novembro 2024 — Agosto 2025 (10 meses)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
