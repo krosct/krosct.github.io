@@ -31,7 +31,6 @@ Gabriel é graduando em Ciência da Computação na UFPE e formado em Processos 
 - 💪 Resiliência
 - 🤝 Trabalho em Grupo
 - 🔍 Curiosidade
-- 🧭 Auto Suficiente
 
 <br>
 
@@ -41,7 +40,11 @@ Gabriel é graduando em Ciência da Computação na UFPE e formado em Processos 
 - 🤖 Aprendizagem de Máquina e Aprendizagem Profunda (IA)
 - 🎤 Falar em público
 - 🔒 Segurança da Informação
-- 🌐 Cibersegurança
+- ☁️ AWS (Amazon Web Services)
+    - 🎯 AWS Certified Cloud Practitioner
+    - 🎯 AWS Certified Developer – Associate
+    - 🎯 AWS Certified SysOps Administrator – Associate
+    - 🎯 AWS Certified DevOps Engineer – Professional (DOP-C02)
 - 🗄️ Banco de Dados
 
 <br>
