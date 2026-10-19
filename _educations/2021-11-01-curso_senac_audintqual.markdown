@@ -1,21 +1,21 @@
 ---
 layout: education
-title: "Graduação: Processos Gerenciais - Senac"
-date: 2025-05-07
-excerpt: "Abril 2020 — Abril 2022 (2 anos e 1 mês)"
+title: "Curso: Auditoria Interna da Qualidade"
+date: 2021-11-01
+excerpt: "Novembro 2021 — Novembro 2021 (1 mês)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "senac.png"
 ---
 
-# 🎓 Formação Acadêmica
+# 🎓 Curso
 
 ---
 
 ## 💼 Centro Universitário Senac
-**Tecnólogo em Processos Gerenciais**
+**Curso Online - Auditoria Interna de Qualidade**
 
 📍 *Brasil - São Paulo - São Paulo*
 
-📅 **Abril de 2020 — Abril de 2022**
+📅 **Novembro de 2021**

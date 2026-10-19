@@ -1,21 +1,21 @@
 ---
 layout: education
-title: "Curso: Gerenciamento do Tempo"
-date: 2025-04-22
-excerpt: "Agosto 2020 — Agosto 2020 (1 mês)"
+title: "Graduação: Processos Gerenciais - Senac"
+date: 2022-04-01
+excerpt: "Abril 2020 — Abril 2022 (2 anos e 1 mês)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
 image: "senac.png"
 ---
 
-# 🎓 Curso
+# 🎓 Formação Acadêmica
 
 ---
 
 ## 💼 Centro Universitário Senac
-**Curso Online -  Administração do Tempo**
+**Tecnólogo em Processos Gerenciais**
 
 📍 *Brasil - São Paulo - São Paulo*
 
-📅 **Agosto de 2020**
+📅 **Abril de 2020 — Abril de 2022**

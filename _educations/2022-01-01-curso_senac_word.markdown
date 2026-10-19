@@ -1,8 +1,8 @@
 ---
 layout: education
-title: "Curso: Gerenciamento de Conflitos"
-date: 2025-04-21
-excerpt: "Abril 2020 — Abril 2020 (1 mês)"
+title: "Curso: Avançado em Word"
+date: 2022-01-01
+excerpt: "Janeiro 2022 — Janeiro 2022 (1 mês)"
 # tags: [when i need, storage, memory]
 # feature: http://i.imgur.com/Ds6S7lJ.png
 # comments: true
@@ -14,8 +14,8 @@ image: "senac.png"
 ---
 
 ## 💼 Centro Universitário Senac
-**Curso Online - Administração de Conflitos**
+**Curso Online - Word Recursos Avançados**
 
 📍 *Brasil - São Paulo - São Paulo*
 
-📅 **Abril de 2020**
+📅 **Janeiro de 2022**
