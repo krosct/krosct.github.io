@@ -41,17 +41,44 @@ Serve para roteiro de vídeo, curta, quadrinho, campanha, aula ou só para ver a
 **4. Gere e baixe.** Em instantes o storyboard aparece e vai direto para o seu computador.
 
 <div align="center">
-  <img src="{{ site.url }}/assets/img/projects/storygapboard/generate.jpg" alt="Tela de geração do StoryGapBoard, com a história, a proporção e o layout dos quadros" width="100%" />
+  <img src="{{ site.url }}/assets/img/projects/storygapboard/fill.jpg" alt="Tela de geração do StoryGapBoard, com a história, a proporção e o layout dos quadros" width="100%" />
+  <p align="center"><em>Geração e criação de imagens para preenchimento do storyboard..</em></p>
+</div>
+
+<div align="center">
+  <img src="{{ site.url }}/assets/img/projects/storygapboard/storyboard.jpg" alt="Exemplo de storyboard gerado pelo StoryGapBoard" width="100%" />
+  <p align="center"><em>Storyboard completo gerado: todas as cenas em uma única imagem.</em></p>
+</div>
+
+<div align="center">
+  <img src="{{ site.url }}/assets/img/projects/storygapboard/mobile-home.jpg" alt="StoryGapBoard no celular - página inicial responsiva" width="100%" />
+  <p align="center"><em>Interface responsiva: funciona perfeitamente no celular.</em></p>
 </div>
 
 ## ✨ Por que você vai gostar
 
+<div align="center">
+  <img src="{{ site.url }}/assets/img/projects/storygapboard/files.jpg" alt="Upload de arquivos de referência no StoryGapBoard" width="100%" />
+  <p align="center"><em>Referências visuais: anexe imagens do personagem, cenário ou estilo.</em></p>
+</div>
+
 * **🖼️ Uma história, uma imagem:** todas as cenas no mesmo quadro, prontas para mostrar, imprimir ou compartilhar.
 * **🎨 Do jeito que você imaginou:** mande fotos e desenhos de referência e o storyboard segue o seu estilo, seus personagens e seus lugares.
 * **📝 Contexto sem limite de criatividade:** anotações em texto ajudam a IA a entender o mundo da sua história.
+
+<div align="center">
+  <img src="{{ site.url }}/assets/img/projects/storygapboard/model.jpg" alt="Seleção de modelo de IA no StoryGapBoard" width="100%" />
+  <p align="center"><em>Escolha o modelo de imagem: sua chave, suas regras.</em></p>
+</div>
+
 * **🤖 Você escolhe a IA:** use o modelo de imagem que preferir, com a sua própria chave. Sem assinatura, sem intermediário cobrando a mais.
 * **🎲 Gostou? Repita:** guarde a "semente" de uma geração para refazer o mesmo resultado ou criar variações dele.
 * **📱 No celular e no computador:** é só abrir o navegador.
+
+<div align="center">
+  <img src="{{ site.url }}/assets/img/projects/storygapboard/download.jpg" alt="Download do storyboard gerado" width="100%" />
+  <p align="center"><em>Baixe o storyboard em alta resolução com um clique.</em></p>
+</div>
 
 ## 🔒 Sua história é sua
 
@@ -62,6 +89,21 @@ Serve para roteiro de vídeo, curta, quadrinho, campanha, aula ou só para ver a
 ## 🚀 Do zero à produção
 
 Um projeto individual, ponta a ponta: da interface ao servidor que conversa com os modelos de imagem, com proteção contra abuso, testes e deploy automático em servidor próprio, com volta automática para a versão anterior se algo der errado.
+
+<div align="center">
+  <img src="{{ site.url }}/assets/img/projects/storygapboard/about.jpg" alt="Sobre o StoryGapBoard" width="100%" />
+  <p align="center"><em>Página "Sobre" com informações do projeto.</em></p>
+</div>
+
+<div align="center">
+  <img src="{{ site.url }}/assets/img/projects/storygapboard/frame.jpg" alt="Configuração de quadros do storyboard" width="100%" />
+  <p align="center"><em>Configuração flexível de quadros: escolha layout, proporção e tamanho.</em></p>
+</div>
+
+<div align="center">
+  <img src="{{ site.url }}/assets/img/projects/storygapboard/retouch.jpg" alt="Retoque de imagens no StoryGapBoard" width="100%" />
+  <p align="center"><em>Retoque avançado para refinar cada quadro do storyboard.</em></p>
+</div>
 
 <p align="center">
   <strong>Feito com</strong> Python · TypeScript · React · IA generativa
